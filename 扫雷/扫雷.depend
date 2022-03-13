@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1642576582 source:e:\c++\É¨À×\main.cpp
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<queue>
+	<ctype.h>
+
+1642576582 source:f:\c++Ð¡ÓÎÏ·\É¨À×\main.cpp
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<queue>
+	<ctype.h>
+
